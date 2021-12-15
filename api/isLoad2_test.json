@@ -1,6 +1,6 @@
 { 
-  "appOpenStart": false, 
-  "appOpenMaximize": false, 
-  "banner_menutips": false, 
-  "inter_backlisttips": false
+  "appOpenStart": true, 
+  "appOpenMaximize": true, 
+  "banner_menutips": true, 
+  "inter_backlisttips": true
 }
